@@ -4,7 +4,7 @@ export default {
 	theme: {
 		extend: {
 			colors: {
-				"ze-green": "#1A4D2E",
+				"ze-green": "#061701",
 				"ze-gold": "#D4AF37",
 				"ze-cream": "#F9F9F5",
 				"ze-dark": "#121212",
@@ -12,6 +12,8 @@ export default {
 			fontFamily: {
 				serif: ["Playfair Display", "serif"],
 				sans: ["Inter", "sans-serif"],
+				cormorant: ["Cormorant Garamond", "serif"],
+				pinyon: ["Pinyon Script", "cursive"],
 			},
 		},
 	},
